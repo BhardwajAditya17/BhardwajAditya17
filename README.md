@@ -6,7 +6,6 @@
 
 [**Portfolio**](https://bhardwajaditya17.github.io/Portfolio/) • [**LinkedIn**](www.linkedin.com/in/bhardwajaditya17)
 
----
 
 ### 🛠️ Languages, Databases & Tools
 
